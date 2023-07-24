@@ -1,0 +1,27 @@
+/**
+ * @name Black Sun
+ * @author Systemd
+ * @version auto updates
+ * @description Theme was created in generator https://vsthemes.org/generator/
+ * @source https://vsthemes.org/en/skins/discord/43468-chernoe-solnce.html
+ * @authorLink https://vsthemes.org/user/Systemd/
+ * @authorId 2
+*/
+@import url(https://vsthemes.org/uploads/generator/client/BasicBackground.css);
+:root {
+    --transparencycolor: 0,0,0;
+    --transparencyalpha: 0.1;
+    --messagetransparency: 0.2;
+    --guildchanneltransparency: 0.1;
+    --memberlistransparency: 0;
+    --accentcolor: 0,0,0;
+    --background: url("https://media.discordapp.net/attachments/1123687939755495445/1132966492862959637/pijYngl.png?width=1127&height=676");
+    --backdrop: rgba(0,0,0,0.2);
+    --backgroundblur: 0px;
+    --popoutblur: 0px;
+    --backdropblur: 0px;
+    --version1_0_5:none;
+    --backgroundsize: cover;
+    --popoutsize: cover;
+    --backdropsize: cover;
+}
