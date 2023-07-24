@@ -15,7 +15,7 @@
     --guildchanneltransparency: 0.3;
     --memberlistransparency: 0;
     --accentcolor: 0,0,0;
-    --background: url("https://vsthemes.org/uploads/posts/2021-09/1631976683_blacksun-1.webp");
+    --background: url("https://media.discordapp.net/attachments/1123687939755495445/1132964395924865106/idontthinkthatanymore.png?width=1212&height=676");
     --backdrop: rgba(0,0,0,0.2);
     --backgroundblur: 0px;
     --popoutblur: 0px;
