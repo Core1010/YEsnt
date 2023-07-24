@@ -1,5 +1,5 @@
 /**
- * @name Tarrant
+ * @name Black Sun
  * @author Systemd
  * @version auto updates
  * @description Theme was created in generator https://vsthemes.org/generator/
@@ -7,7 +7,7 @@
  * @authorLink https://vsthemes.org/user/Systemd/
  * @authorId 2
 */
-@import url(https://media.discordapp.net/attachments/1123687939755495445/1132964395924865106/idontthinkthatanymore.png?width=1212&height=676);
+@import url(https://vsthemes.org/uploads/generator/client/BasicBackground.css);
 :root {
     --transparencycolor: 0,0,0;
     --transparencyalpha: 0.1;
@@ -15,7 +15,7 @@
     --guildchanneltransparency: 0.3;
     --memberlistransparency: 0;
     --accentcolor: 0,0,0;
-    --background: url("https://media.discordapp.net/attachments/1123687939755495445/1132964395924865106/idontthinkthatanymore.png?width=1212&height=676");
+    --background: url("https://cdn.discordapp.com/attachments/1123687939755495445/1132964395924865106/idontthinkthatanymore.png");
     --backdrop: rgba(0,0,0,0.2);
     --backgroundblur: 0px;
     --popoutblur: 0px;
